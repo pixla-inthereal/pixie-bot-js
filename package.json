@@ -1,0 +1,23 @@
+{
+  "name": "pixie-bot-js",
+  "version": "1.0.0",
+  "description": "pixla's silly discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pixie-bot-js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "js"
+  ],
+  "author": "pixla",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  }
+}
