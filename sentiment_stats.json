@@ -1,0 +1,32 @@
+{
+    "test_user": {
+        "attributes": [
+            {
+                "color": "a_string_for_a_color",
+                "level": "a_number",
+                "name": "a_string",
+                "status": "locked_or_exhausted_or_wounded"
+            },
+            {
+                "color": "a_string_for_a_color",
+                "level": "a_number",
+                "name": "a_string",
+                "status": "locked_or_exhausted_or_wounded"
+            },
+            {
+                "color": "a_string_for_a_color",
+                "level": "a_number",
+                "name": "a_string",
+                "status": "locked_or_exhausted_or_wounded"
+            }
+        ],
+        "current_swing": {
+            "attribute": "a_number_targetting_the_attribute",
+            "value": "a_number_from_roll_to_dye"
+        },
+        "hp": "a_number",
+        "max_hp": "a_number",
+        "burn": "a_number_between_0_and_100",
+        "exp": "a_number"
+    }
+}
