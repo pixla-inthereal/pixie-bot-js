@@ -1,0 +1,20 @@
+{
+    "primary": [
+        {"red": "clashes with red"},
+        {"yellow": "clashes with yellow"},
+        {"blue": "clashes with blue"}
+    ],
+    "secondary": [
+        {"green": "clashes act as yellow and blue"},
+        {"orange": "clashes act as red and yellow"},
+        {"purple": "clashes act as red and blue"}
+    ],
+    "rare": [
+        {"black": "never clashes"},
+        {"white": "clashes with every color"},
+        {"steel": "clashes with all physical attacks/conflicts"}
+    ],
+    "special": [
+        {"clear": "on selecting as swing, pick an opponent's color, clear becomes that color until status change"}
+    ]
+}
